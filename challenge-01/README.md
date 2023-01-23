@@ -23,8 +23,7 @@ soma; //72
 let souninja = true;
 
 // Declare uma variável chamada `comida` que recebe um array com os valores 'arroz', 'feijão' e 'ovo'.
-let comida = [];
-comida.push ("arroz", "feijão", "ovo");
+let comida = ["arroz", "feijão", "ovo"];
 
 // Digite a instrução que imprime o valor de 'feijao', que está na variável `comida`.
 comida[1];
